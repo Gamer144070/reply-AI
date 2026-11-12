@@ -1,0 +1,7 @@
+{
+  "name": "ReplyDesk AI Studio",
+  "description": "All-in-one AI workspace for international sellers: grounded customer replies, FAQs, translations, voice transcription, 3D logistics game, multimodal studio (Lyria music, Omni video, image generation), and Cloud SQL persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
